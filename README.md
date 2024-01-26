@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dsmotepalli?tab=repositories](https://github.com/dsmotepalli?tab=repositories)
 
-- 💬 Ask me about **Javascript, React,**
+- 💬 Ask me about **Javascript, React, NodeJS**
 
 - 📫 How to reach me **deepaksurya642@gmail.com**
 
